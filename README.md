@@ -17,3 +17,14 @@ It is recommended to create a new organization that is the owner of the main rep
 ### Create a fork
 
 For creating a fork you must sign in on Github and then go to the landing page's project of whatever fork you want to do. 
+
+## Working with remotes repositores
+
+Display remotes repositories
+` git remote -v`
+
+Add a remote repository
+`git remote add {name} {URL}`
+
+Delete a remote link
+`git remote remove {Name}`
