@@ -28,3 +28,5 @@ Add a remote repository
 
 Delete a remote link
 `git remote remove {Name}`
+
+Thank you for your contribution
