@@ -13,3 +13,7 @@ It is recommended to create a new organization that is the owner of the main rep
 3. Click on organitation (Left menu)
 4. Click on new organitation
 3. Choose the plan and fill up data
+
+### Create a fork
+
+For creating a fork you must sign in on Github and then go to the landing page's project of whatever fork you want to do. 
