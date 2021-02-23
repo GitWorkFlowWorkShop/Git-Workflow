@@ -1,6 +1,6 @@
 # Git
 
-Git Workflow 
+Git Workflow - Tutorial
 
 ## Abstract
 
