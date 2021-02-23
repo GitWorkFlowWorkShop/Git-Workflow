@@ -17,7 +17,7 @@ Git Workflow
 11. Once the pull request is created the project manager will check it out.
 12. The pull request either is rejected or approved.
 13. Every developer has to check constantly if there were any changes to the original project.
-14. The branches that were approved or rejected must be eliminated.
+14. The branches that were approved or rejected must be eliminated
 
 ## Organization
 
